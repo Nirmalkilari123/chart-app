@@ -4,5 +4,6 @@
 
 1. Clone the repository:
    ```sh
-   git clone [repository-url]
+   git clone [https://github.com/Nirmalkilari123/chart-app
+   ]
    cd charting-app
